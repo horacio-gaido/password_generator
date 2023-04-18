@@ -12,8 +12,7 @@
 
 
 ## Introduction
-The following software is my version of the final work of the course ["Definitive Programming Course with Python"](https://kazel.academy/cursos/python) given by Facundo Garcia Martoni, CEO and professor at Kazel Academy.
-
+This software is the culmination of my work in the["Definitive Programming Course with Python"](https://kazel.academy/cursos/python) taught by Facundo Garcia Martoni, CEO and professor at Kazel Academy.
 ## Getting Started
 This is a Python script that generates a secure and random password for the user. It allows the user to specify the desired length of the password and whether or not they want to include uppercase and lowercase letters, digits, and symbols. 
 
