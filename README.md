@@ -47,4 +47,4 @@ Finally, the password is shuffled using the secrets.SystemRandom().shuffle() met
 
 ## License
 
-This investigation is licensed under the MIT License. See the [LICENSE.md](https://github.com/horacio-gaido/password_generator/blob/main/LICENCE.md) file for details.
+This investigation is licensed under the MIT License. See the [LICENSE.md](https://github.com/horacio-gaido/password_generator/blob/main/LICENSE.md) file for details.
